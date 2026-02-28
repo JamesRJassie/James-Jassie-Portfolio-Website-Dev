@@ -1,0 +1,49 @@
+* {
+	font-family:Ariel, Helvetica, sans-serif;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #FFFFFF;
+}
+
+.Topbar {
+	margin: 0;
+	padding: 0;
+}
+
+#title {
+	background-color: #FF0000;
+}
+
+#navbar {
+	background-color: #00FFFF;
+}
+
+.nav-icon {
+	width: 2rem;
+	height: 2rem;
+	text-decoration: none;
+	margin: 1px;
+	
+}
+
+#active {
+	background-color: #00EBEB;
+	height: 48px;
+	width: 48px;
+}
+
+.AboutMe {
+	background-color: #3fe96a;
+	
+	display: grid;
+	align-items: center; 
+	grid-template-columns: 1fr 3fr;
+	column-gap: 0px;
+	padding-left: 1rem;
+	padding-right: 1rem;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
