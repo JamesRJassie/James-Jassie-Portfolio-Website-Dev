@@ -10,7 +10,7 @@ html {
 .warning {
       margin: 2rem auto;
       content-align: center;
-      display: flex;
+      display: grid;
       justify-content: center; /* Centers horizontally */
       align-items: center;     /* Centers vertically */
     }
