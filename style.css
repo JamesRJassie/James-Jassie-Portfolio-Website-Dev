@@ -15,10 +15,12 @@ body {
 
 #title {
 	background-color: #FF0000;
+	padding: 0;
 }
 
 #navbar {
 	background-color: #00FFFF;
+	padding: 0;
 }
 
 .nav-icon {
