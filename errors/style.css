@@ -9,6 +9,7 @@ html {
 
 .warning {
       display: table-cell;
+      horizontal-align: middle;
       vertical-align: middle;
       margin: 2rem auto;
     }
