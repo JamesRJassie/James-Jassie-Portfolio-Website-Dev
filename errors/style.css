@@ -8,11 +8,11 @@ html {
     }
 
 .warning {
-      display: table-cell;
-      horizontal-align: middle;
-      vertical-align: middle;
       margin: 2rem auto;
       content-align: center;
+      display: flex;
+      justify-content: center; /* Centers horizontally */
+      align-items: center;     /* Centers vertically */
     }
 
 h1 {
